@@ -1,0 +1,22 @@
+Given a binary number as an integer N, convert it into decimal and print.
+Sample Input 1 :
+1100
+Sample Output 1 :
+12
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// Write your code here
+    int N;
+    cin>>N;
+    int rev=0,p=0;
+    for(int i=N;i>0;i=i/10)
+    {
+        int c=i%10;
+        rev+=c* pow(2,p);
+        p++;
+    }
+	cout<<rev;
+}
