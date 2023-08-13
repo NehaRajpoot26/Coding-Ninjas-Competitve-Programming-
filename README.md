@@ -1,1 +1,1 @@
-# Coding-Ninjas-Competitve-Programming-
+# Competitve-Programming-
