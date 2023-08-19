@@ -1,5 +1,5 @@
 // Extended Euclidean algorithm also finds integer coefficients x and y such that: ax + by = gcd(a, b) 
-// Time Complexity: O(Log min(a, b))
+// Time Complexity: O(Log min(a, b)).
 
 #include <bits/stdc++.h>
 using namespace std;
