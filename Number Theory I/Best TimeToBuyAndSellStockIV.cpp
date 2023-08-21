@@ -5,8 +5,8 @@ int maximumProfit(vector<int> &prices, int n, int k){
     // Write your code here.
 
     vector<vector<int>>prev(2,vector<int>(k+1,0)),curr(2,vector<int>(k+1,0));
-
-    for(int ind=n-1;ind>=0;ind--){
+int ind;
+    for(ind=n-1;ind>=0;ind--){
 
         for(int buy=0;buy<=1;buy++){
 
