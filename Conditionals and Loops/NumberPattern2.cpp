@@ -1,4 +1,4 @@
-Print the following pattern
+Print the following pattern.
 Pattern for N = 4
    1
   23
