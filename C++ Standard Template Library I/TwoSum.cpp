@@ -40,4 +40,5 @@ vector<pair<int,int>> twoSum(vector<int>& arr, int target, int n)
         return ans;
     }
     return ans;
+}
 
