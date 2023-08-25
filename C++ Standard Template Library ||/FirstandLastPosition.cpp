@@ -7,7 +7,7 @@
 // Sample Output 1:
 // 1 3
 // Explanation for Sample Input 1:
-// The given array’s 0-based indexing is as follows:
+// The given array’s 0-based indexing is as follows:-
 // -10    -5    -5    -5     2
 //  ↓      ↓     ↓     ↓     ↓
 //  0      1     2     3     4
