@@ -6,7 +6,8 @@
 // 3 4
 // 5 6
 // 2 1
-// Sample Output 1:
+
+// Sample Output 1:-
 // 2
 
 #include <algorithm>
