@@ -2,7 +2,7 @@
 // Print the prime numbers in different lines.
 // Input Format :
 // Integer N
-// Output Format :
+// Output Format :-
 // Prime numbers in different lines
 // Constraints :
 // 1 <= N <= 100
