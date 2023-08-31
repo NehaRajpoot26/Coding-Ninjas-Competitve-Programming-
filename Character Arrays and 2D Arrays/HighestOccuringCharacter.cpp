@@ -1,8 +1,8 @@
-For a given a string(str), find and return the highest occurring character.
-Sample Input 1:
-abdefgbabfba
-Sample Output 1:
-b
+// For a given a string(str), find and return the highest occurring character.
+// Sample Input 1:
+// abdefgbabfba
+// Sample Output 1:
+// b
 
 char highestOccurringChar(char input[]) {
     // Write your code here
