@@ -1,5 +1,5 @@
 // Given an array, print the Next Greater Element (NGE) for every element. The Next greater Element for an element x, is the first greater element on right side of x in the array. Elements for which no greater element exist, consider next greater element as -1.
-// Sample Input
+// Sample Input:-
 // 5
 // 3  8  1  2  0
 // Sample Output
