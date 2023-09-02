@@ -1,5 +1,5 @@
 // Given an array of length N, you need to find and print the sum of all elements of the array.
-// Sample Input :
+// Sample Input :-
 // 3
 // 9 8 9
 // Sample Output :
