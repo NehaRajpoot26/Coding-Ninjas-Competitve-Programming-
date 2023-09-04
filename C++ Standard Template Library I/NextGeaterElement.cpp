@@ -2,7 +2,7 @@
 // Sample Input:-
 // 5
 // 3  8  1  2  0
-// Sample Output
+// Sample Output:-
 // 8 -1  2 -1 -1
 #include <vector>
 #include <stack>
