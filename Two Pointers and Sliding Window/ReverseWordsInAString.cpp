@@ -2,7 +2,7 @@
 
 // There can be multiple spaces between two words and there can be leading or trailing spaces but in the output reversed string you need to put a single space between two words, and your reversed string should not contain leading or trailing spaces.
 
-// Sample Input 1 :
+// Sample Input 1 :-
 // Welcome   to Coding Ninjas
 // Sample Output 1:
 // Ninjas Coding to Welcome
