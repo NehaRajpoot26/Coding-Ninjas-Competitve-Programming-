@@ -4,7 +4,7 @@
 
 // Sample Input 1 :-
 // Welcome   to Coding Ninjas
-// Sample Output 1:
+// Sample Output 1:-
 // Ninjas Coding to Welcome
 
 string reverseString(string str)
