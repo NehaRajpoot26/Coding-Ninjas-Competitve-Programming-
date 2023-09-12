@@ -2,7 +2,7 @@
 // Example:
 // Let ‘N’ = 4,  ‘Arr’ be [1, 2, 5, 4] and ‘K’ = 3.  
 // then the elements of this array in ascending order is [1, 2, 4, 5].  Clearly, the 3rd smallest and largest element of this array is 4 and 2 respectively.
-// Sample Input 1:
+// Sample Input 1:-
 // 2
 // 4 4
 // 5 6 7 2
