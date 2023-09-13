@@ -1,7 +1,7 @@
 // You are given a string ‘S’, you need to find the length of the longest substring that contains at most two distinct characters.
 // Note:
 // A string ‘B’ is a substring of a string ‘A’ if ‘B’ that can be obtained by deletion of, several characters(possibly none) from the start of ‘A’ and several characters(possibly none) from the end of ‘A’. 
-// Sample Input 1 :
+// Sample Input 1 :-
 // 2
 // ninninja
 // aaa
